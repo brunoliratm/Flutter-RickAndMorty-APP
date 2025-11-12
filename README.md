@@ -1,6 +1,6 @@
 <p align="center">
 
-<img align="center" alt="Rick & Morty Flutter App" src="assets/icon/icon.png" width="150">
+<img align="center" alt="Rick & Morty Flutter App" src="assets/icon/icon.png" width="200">
 
 # 🛸 Rick & Morty: Flutter Explorer
 
@@ -21,19 +21,19 @@ Wubba Lubba Dub Dub! This is a complete Flutter app to explore the Rick & Morty 
 <details>
 <summary>Characters</summary>
 
-![Characters screenshot](assets/screenshot/person.jpg)
+<img align="center" alt="Rick & Morty Flutter App" src="assets/screenshot/person.jpg" width="300">
 
 </details>
 <details>
 <summary>Episodes</summary>
 
-![Episodes screenshot](assets/screenshot/episode.jpg)
+<img align="center" alt="Rick & Morty Flutter App" src="assets/screenshot/episode.jpg" width="300">
 
 </details>
 <details>
 <summary>Locations</summary>
 
-![Locations screenshot](assets/screenshot/location.jpg)
+<img align="center" alt="Rick & Morty Flutter App" src="assets/screenshot/location.jpg" width="300">
 
 </details>
 
